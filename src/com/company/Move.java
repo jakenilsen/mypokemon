@@ -1,0 +1,5 @@
+package com.company;
+
+public enum Move {
+    TACKLE, VINEWHIP, RAZORLEAF, TAKEDOWN, SCRATCH, EMBER, SLASH, FIRESPIN, BUBBLE, WATERGUN, HEADBUTT
+}
